@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2f13a896-cc65-4472-b2bf-fd1bcd331de5" name="PHP Hoofdstuk3" url="http://phphoofdstuk3.orgfree.com">
+        <fileTransfer host="phphoofdstuk3.orgfree.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
