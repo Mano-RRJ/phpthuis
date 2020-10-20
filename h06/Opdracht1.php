@@ -52,7 +52,6 @@ while ($array = $stmt->fetch()) {
 }
 
 ?>
-
 </table>
 
 </body>
