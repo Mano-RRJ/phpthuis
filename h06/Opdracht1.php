@@ -50,6 +50,7 @@ while ($array = $stmt->fetch()) {
     echo "<td>" . $array['geb_datum'] . "</td>";
     echo "</tr>";
 }
+
 ?>
 
 </table>
